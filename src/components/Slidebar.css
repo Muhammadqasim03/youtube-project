@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.slidebar{
+    width: 20%;
+    background-color: white(250, 245, 245); 
+    padding: 10px;  
+}
+.first-section ul{
+    padding: 12px;
+}
+.first-section li{
+   list-style-type: none;
+   padding: 10px;
+    font-size: medium;
+    font-weight: normal;
+    
+}
+.first-section li:hover{
+    background-color: antiquewhite;
+    border-radius: 6px;
+}
+.Home{
+    background-color: antiquewhite;
+}
+.second-section ul li{
+    padding: 10px;
+    list-style-type: none;  
+    color: black(244, 31, 31);
+}
+
+.second-section li:hover{
+    background-color: antiquewhite;
+}
+
+.icon1{
+    align-items: center;
+    position: relative;
+    right: 40px;
+    width: 20px;
+    height: 17px; 
+}
+.icon2{
+    align-items: center;
+    position: relative;
+    right: 40px;
+    width: 20px;
+    height: 20px;
+}
+.icon3{
+    align-items: center;
+    position: relative;
+    right: 40px;
+    right: 20px;
+    width: 22px;
+}
+.icon4{
+    align-items: center;
+    position: relative;
+    right: 40px;
+   align-items: center;
+    width: 20px;
+    height: 20px;
+}
+.icon5{
+    align-items: center;
+    position: relative;
+    right: 40px;
+    width: 20px;
+    height: 20px;
+}
+.icon6{
+    align-items: center;
+    position: relative;
+    right: 20px;
+    width: 20px;
+    height: 20px;
+}
+.list-item2 img{
+   height: 1.5rem;
+   padding: 2px 2px;
+}
+.main-container{
+    display: flex;
+    width: 100vw;
+}
+/* .card-listing{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 4px;
+   background-color: white;
+ 
+}
+.cards{
+ 
+    display: flex;
+     flex-wrap: wrap;
+}
+.card{ 
+padding: 5px;
+height: 43vh;
+width: 30%;
+margin: 4px;
+}
+.card img:hover{
+    border-radius: 15px;
+}
+
+.crd-img{
+    width: 84%;
+    object-fit: contain;
+  
+    
+}
+.description
+{
+  
+    display: flex;
+  
+}
+
+.description div {
+    text-align: start;
+    overflow: hidden;
+}
+.title{
+    padding: 3px  5px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  
+    overflow: hidden;
+    font-size: large;
+    font-weight: 5px; 
+}
+.desc-img{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;  
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+} */

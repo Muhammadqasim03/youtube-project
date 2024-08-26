@@ -1,0 +1,26 @@
+.list-item ul {
+    display: flex;
+    column-gap: 4px;
+    width: 78vw;
+    overflow-x: hidden;
+}
+
+.list-item ul li {
+    background-color: #d3d1d1;
+    color: #000;
+    border-radius: 8px;
+    padding: 6px;
+    margin: 0px 4px;
+    font-size: 12px;
+    font-weight: 400;
+    white-space: nowrap;
+    list-style-type: none;
+    
+    
+}
+
+.list-item {
+    padding-top: 10px ;
+ 
+    width: 100%;
+}
